@@ -302,35 +302,3 @@ Potential areas for further development include:
 
 
 
-## Original Project Credits
-
-
-
-This repository contains the AdCraftor academic project. Please retain appropriate credit for the original project contributors:
-
-
-
-\- Pranav Jadhav
-
-\- Akshita Bachhav
-
-\- Krushna Shirsath
-
-\- Ganesh Tare
-
-
-
-\*\*Project Guide:\*\* Prof. (Dr.) N. R. Wankhade
-
-
-
-\*\*Institution:\*\* Late G. N. Sapkal College of Engineering, Anjaneri, Nashik.
-
-
-
-## License
-
-
-
-No license has been specified for this repository. Please obtain the original contributors' permission and add an appropriate license before allowing reuse or redistribution.
-
